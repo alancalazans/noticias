@@ -1,0 +1,19 @@
+{
+  "name": "Notícias",
+	"main": "http://localhost:8000/index.html",
+  "version": "1.0.0",
+	"author": "Alan Calazans",
+	"description": "Notícias Correio Braziliense e Estado de Minas",
+	"window": {
+		"toolbar": false,
+		"width": 360,
+		"height": 600,
+		"resizable": false,
+		"frame": true,
+		"title": "Notícias",
+		"show": true,
+		"fullscreen": false,
+		"icon": "noticias.ico"
+	},
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+#!/bin/bash
+[Desktop Entry]
+Name=Notícias
+Comment=Sites de notícias
+Exec=/home/calazans/Workspace/htdocs/noticias/noticias-nwjs/noticias.sh
+Icon=/home/calazans/Workspace/htdocs/noticias/noticias-nwjs/noticias.ico
+Terminal=true
+Type=Application

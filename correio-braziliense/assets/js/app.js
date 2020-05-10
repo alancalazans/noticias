@@ -154,6 +154,7 @@ construir = obj => {
 			html += '<p><a class="continuelendo" href="'+obj.channel.item[i].link+'"><em>Continue lendo...</em></a></p>';
 			html += '</div>';
 			html += '</div>';
+			html += '<hr style="height: 5px; border: none; color: #7A7879; background-color: #7A7879;">';
 		}
 		$('.container').append(html);
 	}
